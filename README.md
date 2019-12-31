@@ -1,1 +1,3 @@
-# Auto-Insurance-Fraud-Detection
+# Auto Insurance Claims Fraud Detection
+
+Project in progress
