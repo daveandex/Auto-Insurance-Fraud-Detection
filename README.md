@@ -1,4 +1,4 @@
-## Fraud Detection Auto Insurance Claims 
+## Fraud Detection: Auto Insurance
 
 ### Project Objective
 
